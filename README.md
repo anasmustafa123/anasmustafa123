@@ -16,7 +16,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `Junior` at Faculty of Computers & comunication at alexandria University
+- :school: I am a `Junior` at Faculty engineering ' Computers & comunication ' at alexandria University
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `wep Engineering`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`
