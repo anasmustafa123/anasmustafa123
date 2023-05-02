@@ -23,52 +23,12 @@
 
 <br>
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
-
-<br>
-<br>
-
-
-## 👀 My Competitive Programming Profiles
-
-<p align="center">
-  <a href="https://codeforces.com/profile/7oSkaaa"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-	<a href="https://leetcode.com/7oSkaa/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	<a href="https://atcoder.jp/users/ahmed_7oSkaa"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder"/></a>
-	<a href="https://www.codechef.com/users/ahmed_7oskaa"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
-	<a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global"/></a>     
-	<a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
-</p>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
-<p align="center">
-	<a href="mailto:ahmed.7oskaa@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/7oSkaaa"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/0201208822340"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/7oskaa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
-</p>
-
-
-
-
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
 
 <p align="center"> 
   &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
@@ -77,9 +37,6 @@
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
   &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
 </p>
 
 ### 👉 Frontend Development
@@ -102,19 +59,14 @@
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
+    <a href="#"><img alt="bootstrap" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJcAAACXCAMAAAAvQTlLAAAAjVBMVEX///9XPn////5TOH15Z5N1ZZBTOXxsUo1ML3e9tcaXhqtIKnZXP35eR4P28/jt6u+qnrppU4lyXpDw7/HFwM+BcppQNHv49/m2rMPMx9POxtdrWIjk4eo3EWk2CGiNf6Tb1uJDIHCZjKuekLStpLqFc6CelK+Qg6NeSYB6ZpeKeqPAtcw+Gm9BJGvh2eqML3LcAAAEm0lEQVR4nO2bi3LiIBRAyUMW89CmTUhiosaurta6+/+ft5CXNoXYDVDcGc5MZ6ddQ0/hhlzCBQCDwWAwGAwGg8FgMBgMhk/Ytk2+6n//meYqdWLTaKSUaYler0oMpFXmJe4UEi+rUuk+9Rik+RZufOxMA6MN9PJUapzVDa0KB1lBYE0msBAsVjKHkzRUJjtoCUjVXoHlXA6lrPinzcQnJOTUihFQGMuxolrZGoprtcB11gassFeGpVnRXsOZhKEkXvFaohZlHUuYDEEZQksw5AfAk4zgdyWE/ADkinutdlL7qibYrUS10gLK97JgIfJQondzLvNevBHLBUKfzhFb+dFFQVuBCCNeKZY3o94QWDAVeFDaoNqo0CJsKqFx3Psjf7MIvsikbwOPF/ZBIJLzWBb2hPrL5XhBnwfGzldC0kmmxxf1ctha4ZxD9vR6fg4RuucGXSGvGcfrx9h1i3L1E16c0XF23IlS97zu/bG5O9pnzkyHF11bpHPMvvi7vD4sq68/JeM5w9yxVOw1lPn47aLg9pjy/rJZrwd6McjLRtR6cW71q/OcNy+r7q90/zRgtbzxS2ecm1K11zIcTvi7aN93pA0yzgNWtddLNOyQAPrJoh/KBWcx9f1exMx/7RsAnLxSgxdJNPwmu6J3ZsRuQUd/kTT5tW/kwL4j9Xg5b4uukeSRvODzS9fC8yONY+tF4wuyJzA9XvjctZE+0DxBVhXztgXw/jDzKu2uqGsBJJyMQocXPpVdEzkvZ1Xv9eETRANvZo0W/UTEywxV54Uvs1P0gWKbp50VOCJewqrai38x+Xrlv3T5Xq96d6r7WZlQLT3jyKf8hZDF3yDR5rWIDyHiv1zR5gXqLuMubTXFfZtHl1GdTTB6TXl/LT+TXhdK6dZnD6XidRp4cYNwSHT8c23ExczYVz7fM/IriHZPfQvLEzPG1Hsxfi1J8H/1sZcxR1KLF93RyPsY+60j7jlelpOkXY95rKeRrv6yYL9nlrNSQ139FeyqZiBtUDH7U5OXta66AFuyUtpH8GJ9RJvXrmzH0X4sr2DZv4qKGP+tywsfQfeoKsOH8QogKkF/Pz7EPFHP7RC9X18ZPunxwnCAg320unn3y3xwK89zjm+DUq+3w3F+28rqouG5bduLT1yXj5SFqyPP4ebRXdCDLfvFib51hz26Ea1xPUQuX5w56b3WdRqIn7nb9sr2RUeWaM3MtXwvLvydUaH+AtP2kQnV/vzDH9kWpV4K9t2t4KfH4/wW/l7viNTo/jZOhOoUuPUTiAv+UukM9qYXDpHr9j7njYxo8RWtNxEYx2qjoPqLIlifk2LJtYUdtJ5JwEtp/ZdIjaHCejkh0kJBYVogVl9YEz9mPaZtczY2RUAHcS1QnmRrwbC8/5vvi0mujw6sSyx+OIAmB1LryckoSqonl19/L+2MR31eQcZ9GaCTnPMKFBr87kiO93XgTt75jkYMxAUc2Vb5Es15GHlezSZZmnv0/NDEA0TYb88PqTgOJnTe6o/881YN4nOOFI3PzbYle1MuVXrMsDn9OPlqVf1lMBgMBoPBYDAYDAaD4T/nL/0BWMY9bCkxAAAAAElFTkSuQmCC"></a>
   &emsp;
     <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
 </p>
 
  ### 👉 IDEs
@@ -128,23 +80,6 @@
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
-</p>
-
- ### 👉 Competitive Programming & Problem Solving
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
-  &emsp;
-    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
-  &emsp;
-    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p>
 
  ### 👉 Operating Systems
@@ -161,37 +96,3 @@
 </p>
 
 <br/>
-
-## 📊 Github Stats
-
-
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-
-----
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=7oSkaaa&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-
-<br/>
-
-## :trophy: Git profile Trophies
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
-
------
-Credits: [7oSkaaa](https://github.com/7oSkaaa)
-
-Last Edited on: 10/02/2022
