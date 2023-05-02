@@ -1,7 +1,8 @@
 <h1 align="center">Hi , I'm Anas Mustafa <aiamg src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;ACPC+2021+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;cgess player;wep develepor ;DS%20|%20Algorithms%20|%20OOP%20;;6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
+
 
 
 <br>
@@ -62,8 +63,6 @@
     <a href="#"><img alt="bootstrap" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJcAAACXCAMAAAAvQTlLAAAAjVBMVEX///9XPn////5TOH15Z5N1ZZBTOXxsUo1ML3e9tcaXhqtIKnZXP35eR4P28/jt6u+qnrppU4lyXpDw7/HFwM+BcppQNHv49/m2rMPMx9POxtdrWIjk4eo3EWk2CGiNf6Tb1uJDIHCZjKuekLStpLqFc6CelK+Qg6NeSYB6ZpeKeqPAtcw+Gm9BJGvh2eqML3LcAAAEm0lEQVR4nO2bi3LiIBRAyUMW89CmTUhiosaurta6+/+ft5CXNoXYDVDcGc5MZ6ddQ0/hhlzCBQCDwWAwGAwGg8FgMBgMhk/Ytk2+6n//meYqdWLTaKSUaYler0oMpFXmJe4UEi+rUuk+9Rik+RZufOxMA6MN9PJUapzVDa0KB1lBYE0msBAsVjKHkzRUJjtoCUjVXoHlXA6lrPinzcQnJOTUihFQGMuxolrZGoprtcB11gassFeGpVnRXsOZhKEkXvFaohZlHUuYDEEZQksw5AfAk4zgdyWE/ADkinutdlL7qibYrUS10gLK97JgIfJQondzLvNevBHLBUKfzhFb+dFFQVuBCCNeKZY3o94QWDAVeFDaoNqo0CJsKqFx3Psjf7MIvsikbwOPF/ZBIJLzWBb2hPrL5XhBnwfGzldC0kmmxxf1ctha4ZxD9vR6fg4RuucGXSGvGcfrx9h1i3L1E16c0XF23IlS97zu/bG5O9pnzkyHF11bpHPMvvi7vD4sq68/JeM5w9yxVOw1lPn47aLg9pjy/rJZrwd6McjLRtR6cW71q/OcNy+r7q90/zRgtbzxS2ecm1K11zIcTvi7aN93pA0yzgNWtddLNOyQAPrJoh/KBWcx9f1exMx/7RsAnLxSgxdJNPwmu6J3ZsRuQUd/kTT5tW/kwL4j9Xg5b4uukeSRvODzS9fC8yONY+tF4wuyJzA9XvjctZE+0DxBVhXztgXw/jDzKu2uqGsBJJyMQocXPpVdEzkvZ1Xv9eETRANvZo0W/UTEywxV54Uvs1P0gWKbp50VOCJewqrai38x+Xrlv3T5Xq96d6r7WZlQLT3jyKf8hZDF3yDR5rWIDyHiv1zR5gXqLuMubTXFfZtHl1GdTTB6TXl/LT+TXhdK6dZnD6XidRp4cYNwSHT8c23ExczYVz7fM/IriHZPfQvLEzPG1Hsxfi1J8H/1sZcxR1KLF93RyPsY+60j7jlelpOkXY95rKeRrv6yYL9nlrNSQ139FeyqZiBtUDH7U5OXta66AFuyUtpH8GJ9RJvXrmzH0X4sr2DZv4qKGP+tywsfQfeoKsOH8QogKkF/Pz7EPFHP7RC9X18ZPunxwnCAg320unn3y3xwK89zjm+DUq+3w3F+28rqouG5bduLT1yXj5SFqyPP4ebRXdCDLfvFib51hz26Ea1xPUQuX5w56b3WdRqIn7nb9sr2RUeWaM3MtXwvLvydUaH+AtP2kQnV/vzDH9kWpV4K9t2t4KfH4/wW/l7viNTo/jZOhOoUuPUTiAv+UukM9qYXDpHr9j7njYxo8RWtNxEYx2qjoPqLIlifk2LJtYUdtJ5JwEtp/ZdIjaHCejkh0kJBYVogVl9YEz9mPaZtczY2RUAHcS1QnmRrwbC8/5vvi0mujw6sSyx+OIAmB1LryckoSqonl19/L+2MR31eQcZ9GaCTnPMKFBr87kiO93XgTt75jkYMxAUc2Vb5Es15GHlezSZZmnv0/NDEA0TYb88PqTgOJnTe6o/881YN4nOOFI3PzbYle1MuVXrMsDn9OPlqVf1lMBgMBoPBYDAYDAaD4T/nL/0BWMY9bCkxAAAAAElFTkSuQmCC"></a>
   &emsp;
     <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
