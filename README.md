@@ -43,6 +43,10 @@
   <a href="https://www.java.com" target="_blank"> 
   <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%23007396.svg?style=plastic&logo=bootstrap&logoColor=white">
   </a>
+  &emsp;
+  <a target="_blank"> 
+  <img alt="webpack" src="https://img.shields.io/badge/webpack-%23007396.svg?style=plastic&logo=webpack&logoColor=white">
+  </a>
 </p>
 
  ### 👉 Software & Tools
@@ -52,8 +56,6 @@
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="bootstrap" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
   &emsp;
