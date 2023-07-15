@@ -47,6 +47,10 @@
   <a target="_blank"> 
   <img alt="webpack" src="https://img.shields.io/badge/webpack-%23007396.svg?style=&logo=webpack&logoColor=white">
   </a>
+  &emsp;
+   <a target="_blank"> 
+  <img alt="webpack" src="https://img.shields.io/badge/npm-%23007396.svg?style=&logo=npm&logoColor=white">
+  </a>
 </p>
 
  ### 👉 Software & Tools
