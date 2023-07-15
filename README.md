@@ -47,10 +47,7 @@
   <a target="_blank"> 
   <img alt="webpack" src="https://img.shields.io/badge/webpack-%23007396.svg?style=&logo=webpack&logoColor=white">
   </a>
-  &emsp;
-   <a target="_blank"> 
-  <img alt="webpack" src="https://img.shields.io/badge/npm-%23007396.svg?style=&logo=npm&logoColor=white">
-  </a>
+ 
 </p>
 
  ### 👉 Software & Tools
@@ -62,7 +59,18 @@
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=&logo=github&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=&logo=markdown&logoColor=white"></a>
-  &emsp;
+ &emsp;
+   <a target="_blank"> 
+  <img alt="npm" src="https://img.shields.io/badge/npm-%23007396.svg?style=&logo=npm&logoColor=white">
+   </a>
+   &emsp;
+   <a target="_blank"> 
+  <img alt="babel" src="https://img.shields.io/badge/babel-%23007396.svg?style=&logo=babel&logoColor=white">
+  </a>
+   &emsp;
+   <a target="_blank"> 
+  <img alt="babel" src="https://img.shields.io/badge/eslint-%23007396.svg?style=&logo=eslint&logoColor=white">
+  </a>
 </p>
 
  ### 👉 IDEs
