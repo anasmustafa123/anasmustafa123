@@ -1,14 +1,30 @@
 <h1 align="center">Hi , I'm Anas Mustafa </h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=engineering+Student;wep+developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
+
+[//]: # (<p align="center">)
+[//]: # (<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=engineering+Student;wep+developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>)
+[//]: # (</p>)
 
 
 ## :sassy_man:  About me
-- :school: I am a `Junior` at Faculty engineering ' Computers & comunication ' at alexandria University
-- :technologist: I love using Software as a solution for every `Problem`
-- :student: I’m currently learning: `wep Engineering`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`
+- :school: I am a `undergraduate` at Faculty engineering ' Computers & comunication ' at alexandria University
+- :technologist: I am passionate about Software as a solution for every `Problem`
+- :student: I’m currently learning: &emsp;
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/machine_learning%20-%23F7DF1E.svg?style=plastic&logo=machine_learning&logoColor=black">
+   </a>
+   &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/node.js%20-%23F7DF1E.svg?style=plastic&logo=node.js&logoColor=black">
+   </a>
+  &emsp;
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/mongodb-%23007396.svg?style=plastic&logo=mongodb&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/mysql-%23007396.svg?style=plastic&logo=mysql&logoColor=white">
+  </a>
+- :thinking: I’m currently open for: `An Intern` or  a new `job opportunity`
 - :nerd_face: Always `learning new things`
 
 <br>
@@ -26,11 +42,10 @@
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
-  &emsp;
-</p>
-
-### 👉 Frontend Development
-<p align="center"> 
+  &emsp; 
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/python-%23007396.svg?style=plastic&logo=python&logoColor=white">
+  </a>
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=&logo=html5&logoColor=white">
@@ -40,14 +55,26 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=&logo=css3&logoColor=white">
   </a> 
     &emsp;
+</p>
+
+### 👉 Frameworks/Libraries
+<p align="center"> 
   <a href="https://www.java.com" target="_blank"> 
   <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%23007396.svg?style=&logo=bootstrap&logoColor=white">
   </a>
   &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/tailwind%20-%23F7DF1E.svg?style=plastic&logo=tailwindcss&logoColor=black">
+   </a>
+      &emsp;
   <a target="_blank"> 
   <img alt="webpack" src="https://img.shields.io/badge/webpack-%23007396.svg?style=&logo=webpack&logoColor=white">
   </a>
- 
+    &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/react%20-%23F7DF1E.svg?style=plastic&logo=react&logoColor=black">
+   </a>
+   
 </p>
 
  ### 👉 Software & Tools
